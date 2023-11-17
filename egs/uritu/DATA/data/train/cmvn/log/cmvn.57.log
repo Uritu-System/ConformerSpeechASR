@@ -1,0 +1,315 @@
+# python3 utiles/compute_cmvn.py --dim 30 --wav_path ../DATA/data/train/cmvn/split_64 --config_file conf/train_asr_paraformer_conformer_12e_6d_2048_256.yaml --idx 57 
+# Started at Shim Shin 16 11:51:40 -05 2023
+#
+This is waveform size
+torch.Size([1, 45526])
+This is waveform size
+torch.Size([1, 60306])
+This is waveform size
+torch.Size([1, 64771])
+This is waveform size
+torch.Size([1, 86592])
+This is waveform size
+torch.Size([1, 48496])
+This is waveform size
+torch.Size([1, 73024])
+This is waveform size
+torch.Size([1, 54980])
+This is waveform size
+torch.Size([1, 27712])
+This is waveform size
+torch.Size([1, 24896])
+This is waveform size
+torch.Size([1, 142784])
+This is waveform size
+torch.Size([1, 88818])
+This is waveform size
+torch.Size([1, 37277])
+This is waveform size
+torch.Size([1, 49600])
+This is waveform size
+torch.Size([1, 123712])
+This is waveform size
+torch.Size([1, 69723])
+This is waveform size
+torch.Size([1, 100893])
+This is waveform size
+torch.Size([1, 107446])
+This is waveform size
+torch.Size([1, 32449])
+This is waveform size
+torch.Size([1, 57664])
+This is waveform size
+torch.Size([1, 86988])
+This is waveform size
+torch.Size([1, 74739])
+This is waveform size
+torch.Size([1, 156141])
+This is waveform size
+torch.Size([1, 29249])
+This is waveform size
+torch.Size([1, 88586])
+This is waveform size
+torch.Size([1, 42176])
+This is waveform size
+torch.Size([1, 61505])
+This is waveform size
+torch.Size([1, 20352])
+This is waveform size
+torch.Size([1, 97088])
+This is waveform size
+torch.Size([1, 72470])
+This is waveform size
+torch.Size([1, 63936])
+This is waveform size
+torch.Size([1, 104751])
+This is waveform size
+torch.Size([1, 106731])
+This is waveform size
+torch.Size([1, 59969])
+This is waveform size
+torch.Size([1, 80577])
+This is waveform size
+torch.Size([1, 79186])
+This is waveform size
+torch.Size([1, 24896])
+This is waveform size
+torch.Size([1, 33729])
+This is waveform size
+torch.Size([1, 21952])
+This is waveform size
+torch.Size([1, 72385])
+This is waveform size
+torch.Size([1, 48614])
+This is waveform size
+torch.Size([1, 43329])
+This is waveform size
+torch.Size([1, 118488])
+This is waveform size
+torch.Size([1, 49856])
+This is waveform size
+torch.Size([1, 101697])
+This is waveform size
+torch.Size([1, 84672])
+This is waveform size
+torch.Size([1, 28225])
+This is waveform size
+torch.Size([1, 127680])
+This is waveform size
+torch.Size([1, 84329])
+This is waveform size
+torch.Size([1, 21697])
+This is waveform size
+torch.Size([1, 26689])
+This is waveform size
+torch.Size([1, 42177])
+This is waveform size
+torch.Size([1, 57793])
+This is waveform size
+torch.Size([1, 37697])
+This is waveform size
+torch.Size([1, 107539])
+This is waveform size
+torch.Size([1, 112684])
+This is waveform size
+torch.Size([1, 74048])
+This is waveform size
+torch.Size([1, 50933])
+This is waveform size
+torch.Size([1, 155200])
+This is waveform size
+torch.Size([1, 82240])
+This is waveform size
+torch.Size([1, 91871])
+This is waveform size
+torch.Size([1, 64449])
+This is waveform size
+torch.Size([1, 46145])
+This is waveform size
+torch.Size([1, 92814])
+This is waveform size
+torch.Size([1, 59712])
+This is waveform size
+torch.Size([1, 93505])
+This is waveform size
+torch.Size([1, 78142])
+This is waveform size
+torch.Size([1, 26177])
+This is waveform size
+torch.Size([1, 45120])
+This is waveform size
+torch.Size([1, 97591])
+This is waveform size
+torch.Size([1, 59200])
+This is waveform size
+torch.Size([1, 49728])
+This is waveform size
+torch.Size([1, 48016])
+This is waveform size
+torch.Size([1, 81344])
+This is waveform size
+torch.Size([1, 82752])
+This is waveform size
+torch.Size([1, 36417])
+This is waveform size
+torch.Size([1, 81065])
+This is waveform size
+torch.Size([1, 51392])
+This is waveform size
+torch.Size([1, 80704])
+This is waveform size
+torch.Size([1, 101697])
+This is waveform size
+torch.Size([1, 28013])
+This is waveform size
+torch.Size([1, 107949])
+This is waveform size
+torch.Size([1, 46583])
+This is waveform size
+torch.Size([1, 39121])
+This is waveform size
+torch.Size([1, 51789])
+This is waveform size
+torch.Size([1, 169280])
+This is waveform size
+torch.Size([1, 64704])
+This is waveform size
+torch.Size([1, 62662])
+This is waveform size
+torch.Size([1, 147264])
+This is waveform size
+torch.Size([1, 98112])
+This is waveform size
+torch.Size([1, 66880])
+This is waveform size
+torch.Size([1, 73788])
+This is waveform size
+torch.Size([1, 74049])
+This is waveform size
+torch.Size([1, 26370])
+This is waveform size
+torch.Size([1, 42411])
+This is waveform size
+torch.Size([1, 96287])
+This is waveform size
+torch.Size([1, 64832])
+This is waveform size
+torch.Size([1, 29760])
+This is waveform size
+torch.Size([1, 28352])
+This is waveform size
+torch.Size([1, 115373])
+This is waveform size
+torch.Size([1, 28352])
+This is waveform size
+torch.Size([1, 95736])
+This is waveform size
+torch.Size([1, 43338])
+This is waveform size
+torch.Size([1, 61633])
+This is waveform size
+torch.Size([1, 115264])
+This is waveform size
+torch.Size([1, 55325])
+This is waveform size
+torch.Size([1, 57024])
+This is waveform size
+torch.Size([1, 91873])
+This is waveform size
+torch.Size([1, 20800])
+This is waveform size
+torch.Size([1, 39872])
+This is waveform size
+torch.Size([1, 40456])
+This is waveform size
+torch.Size([1, 55745])
+This is waveform size
+torch.Size([1, 86767])
+This is waveform size
+torch.Size([1, 189241])
+This is waveform size
+torch.Size([1, 162240])
+This is waveform size
+torch.Size([1, 80320])
+This is waveform size
+torch.Size([1, 107584])
+This is waveform size
+torch.Size([1, 30784])
+This is waveform size
+torch.Size([1, 61633])
+This is waveform size
+torch.Size([1, 74689])
+This is waveform size
+torch.Size([1, 103610])
+This is waveform size
+torch.Size([1, 65640])
+This is waveform size
+torch.Size([1, 31798])
+This is waveform size
+torch.Size([1, 60602])
+This is waveform size
+torch.Size([1, 60155])
+This is waveform size
+torch.Size([1, 61891])
+This is waveform size
+torch.Size([1, 31937])
+This is waveform size
+torch.Size([1, 49857])
+This is waveform size
+torch.Size([1, 25536])
+This is waveform size
+torch.Size([1, 18581])
+This is waveform size
+torch.Size([1, 41793])
+This is waveform size
+torch.Size([1, 60897])
+This is waveform size
+torch.Size([1, 57253])
+This is waveform size
+torch.Size([1, 23075])
+This is waveform size
+torch.Size([1, 31168])
+This is waveform size
+torch.Size([1, 53312])
+This is waveform size
+torch.Size([1, 72089])
+This is waveform size
+torch.Size([1, 44609])
+This is waveform size
+torch.Size([1, 91640])
+This is waveform size
+torch.Size([1, 23884])
+This is waveform size
+torch.Size([1, 21697])
+This is waveform size
+torch.Size([1, 69504])
+This is waveform size
+torch.Size([1, 52040])
+This is waveform size
+torch.Size([1, 56959])
+This is waveform size
+torch.Size([1, 27559])
+This is waveform size
+torch.Size([1, 43072])
+This is waveform size
+torch.Size([1, 25666])
+This is waveform size
+torch.Size([1, 48200])
+This is waveform size
+torch.Size([1, 20800])
+This is waveform size
+torch.Size([1, 70208])
+This is waveform size
+torch.Size([1, 23074])
+This is waveform size
+torch.Size([1, 63809])
+This is waveform size
+torch.Size([1, 45249])
+This is waveform size
+torch.Size([1, 82064])
+This is waveform size
+torch.Size([1, 41702])
+This is waveform size
+torch.Size([1, 61436])
+# Accounting: time=283 threads=1
+# Ended (code 0) at Shim Shin 16 11:56:23 -05 2023, elapsed time 283 seconds
